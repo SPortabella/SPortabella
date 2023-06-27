@@ -4,6 +4,11 @@ I have recently finished the Java and Spring bootcamp at the IT ACADEMY.
 I am looking for a job as a Java Web Developer
 
 ![image](https://github.com/SPortabella/SPortabella/assets/113702881/f5b0fa30-d136-4e25-a447-5a2122b1c086)
+![image](https://github.com/SPortabella/SPortabella/assets/113702881/42089a1f-e29a-42df-a801-e0a7cdb938c1)
+![image](https://github.com/SPortabella/SPortabella/assets/113702881/94e39b57-e905-4c76-beb2-60057d4501e3)
+![image](https://github.com/SPortabella/SPortabella/assets/113702881/92e9677a-091d-425b-baa9-f1ccaeb61f94)
+![image](https://github.com/SPortabella/SPortabella/assets/113702881/ac319d0d-75f4-4db7-b784-b2c9f9224e7c)
+![image](https://github.com/SPortabella/SPortabella/assets/113702881/de9b74c3-34a9-48fb-aacb-4e28c9417bc2)
 
 <!--
 **SPortabella/SPortabella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
