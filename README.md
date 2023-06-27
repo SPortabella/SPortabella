@@ -1,5 +1,8 @@
 ### Hi, I'm Susana 👋
 
+I have recently finished the Java and Spring bootcamp at the IT ACADEMY.
+I am looking for a job as a Java Web Developer
+
 <!--
 **SPortabella/SPortabella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
