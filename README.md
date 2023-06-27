@@ -5,7 +5,8 @@ I am looking for a job as a Java Web Developer
 
 ![image](https://github.com/SPortabella/SPortabella/assets/113702881/f5b0fa30-d136-4e25-a447-5a2122b1c086)
 ![spring](https://github.com/SPortabella/SPortabella/assets/113702881/2a520f65-d71d-47b5-9b32-3f52d418b13d)
-![mysql](https://github.com/SPortabella/SPortabella/assets/113702881/5fe15747-fdd3-497a-8a96-a6507ea0ffe8)
+![mysql](https://github.com/SPortabella/SPortabella/assets/113702881/7c3a87e0-b555-4e0e-961b-e4c9a6d8b414)
+
 
 ![image](https://github.com/SPortabella/SPortabella/assets/113702881/92e9677a-091d-425b-baa9-f1ccaeb61f94)
 ![image](https://github.com/SPortabella/SPortabella/assets/113702881/ac319d0d-75f4-4db7-b784-b2c9f9224e7c)
