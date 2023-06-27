@@ -1,6 +1,7 @@
 ### Hi, I'm Susana 👋
 
 I have recently finished the Java and Spring bootcamp at the IT ACADEMY.
+
 I am looking for a job as a Java Web Developer
 
 ![image](https://github.com/SPortabella/SPortabella/assets/113702881/f5b0fa30-d136-4e25-a447-5a2122b1c086)
